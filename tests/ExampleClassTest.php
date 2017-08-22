@@ -2,7 +2,9 @@
 
 namespace PHPUnitPrimer;
 
-class ExampleClassTest extends \PHPUnit_Framework_TestCase
+use PHPUnit\Framework\TestCase;
+
+class ExampleClassTest extends TestCase
 {
     public function testValueSquared()
     {
