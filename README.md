@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/sanmai/phpunit-primer.svg?branch=master)](https://travis-ci.org/sanmai/phpunit-primer)
+
 PHPUnit Usage Primer
 
     $ git clone https://github.com/sanmai/phpunit-primer.git
