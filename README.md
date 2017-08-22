@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/sanmai/phpunit-primer.svg?branch=master)](https://travis-ci.org/sanmai/phpunit-primer)
+[![Build Status](https://travis-ci.org/sanmai/phpunit-primer.svg?branch=master)](https://travis-ci.org/sanmai/phpunit-primer) [![Coverage Status](https://coveralls.io/repos/github/sanmai/phpunit-primer/badge.svg)](https://coveralls.io/github/sanmai/phpunit-primer)
 
 PHPUnit Usage Primer
 
