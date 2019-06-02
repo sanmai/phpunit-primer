@@ -3,7 +3,7 @@
     "description": "PHPUnit Primer",
     "license": "MIT",
     "require-dev": {
-        "php-coveralls/php-coveralls": "^1.0",
+        "php-coveralls/php-coveralls": "^2.1",
         "phpunit/phpunit": "^6.5 || ^7.4"
     },
     "autoload": {
