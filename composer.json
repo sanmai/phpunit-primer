@@ -1,5 +1,6 @@
 {
     "name": "sanmai/phpunit-primer",
+    "type": "project",
     "description": "PHPUnit Primer",
     "license": "MIT",
     "require-dev": {
