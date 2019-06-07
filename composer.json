@@ -2,6 +2,7 @@
     "name": "sanmai/phpunit-primer",
     "type": "project",
     "description": "PHPUnit Primer",
+    "homepage": "https://www.alexeykopytko.com/2016/phpunit/",
     "license": "MIT",
     "require-dev": {
         "php-coveralls/php-coveralls": "^2.1",
