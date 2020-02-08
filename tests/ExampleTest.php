@@ -1,6 +1,6 @@
 <?php
 
-namespace PHPUnitPrimer;
+namespace Tests\PHPUnitPrimer;
 
 use PHPUnit\Framework\TestCase;
 
@@ -11,4 +11,3 @@ class ExampleTest extends TestCase
         $this->assertTrue(true);
     }
 }
-

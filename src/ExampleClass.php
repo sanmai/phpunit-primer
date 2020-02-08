@@ -21,4 +21,3 @@ class ExampleClass
         throw new SpecificException();
     }
 }
-

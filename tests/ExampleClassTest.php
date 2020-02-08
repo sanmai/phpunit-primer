@@ -1,8 +1,9 @@
 <?php
 
-namespace PHPUnitPrimer;
+namespace Tests\PHPUnitPrimer;
 
 use PHPUnit\Framework\TestCase;
+use PHPUnitPrimer\ExampleClass;
 
 class ExampleClassTest extends TestCase
 {
@@ -17,10 +18,10 @@ class ExampleClassTest extends TestCase
 
     /**
      * @depends testValueSquared
-     * @expectedException \PHPUnitPrimer\SpecificException
      */
     public function testInvalidResult($instance)
     {
+        $this->expectException(\PHPUnitPrimer\SpecificException::class);
         $instance->getResult();
     }
 }
