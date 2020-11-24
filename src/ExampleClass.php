@@ -13,6 +13,8 @@ class ExampleClass
 
     public function getValueSquared()
     {
+		throw new \RuntimeException("This is an error");
+
         return pow($this->value, 2);
     }
 
